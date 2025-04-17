@@ -1,10 +1,10 @@
 # 🌐 Global Park DAO – Public Governance Records
 
-![ENS](https://img.shields.io/badge/ENS-globalpark.eth-6f42c1?style=flat-square&logo=ethereum)
-![IPFS](https://img.shields.io/badge/IPFS-Documents-blue?style=flat-square&logo=ipfs)
-![DAO Phase](https://img.shields.io/badge/DAO_Phase-Genesis-brightgreen?style=flat-square)
-![Safe Multisig](https://img.shields.io/badge/Safe_Multisig-3_of_5-orange?style=flat-square&logo=gnosis)
-![Powered by](https://img.shields.io/badge/Powered_by-GPARK_Token-purple?style=flat-square&logo=ethereum)
+[![ENS](https://img.shields.io/badge/ENS-globalpark.eth-6f42c1?style=flat-square&logo=ethereum)](https://app.ens.domains/name/globalpark.eth)
+[![IPFS](https://img.shields.io/badge/IPFS-Documents-blue?style=flat-square&logo=ipfs)](https://gateway.pinata.cloud/ipfs/bafkreif6vshncnh5kc35ppwhjc73c7klnhes5qzc3ya6t4ncklvfrz5zge)
+[![DAO Phase](https://img.shields.io/badge/DAO_Phase-Genesis-brightgreen?style=flat-square)](https://github.com/GPARKPRO/GlobalPark-DAO/tree/main/docs)
+[![Safe Multisig](https://img.shields.io/badge/Safe_Multisig-3_of_5-orange?style=flat-square&logo=gnosis)](https://app.safe.global/eth:0x4C7635EC1f6870cBBD58c13e3aEB4e43B7EE7183)
+[![Powered by](https://img.shields.io/badge/Powered_by-GPARK_Token-purple?style=flat-square&logo=ethereum)](https://etherscan.io/token/0x18dD9d45f42B34F665ac2Dc4b97f10e4e81C7938)
 
 This repository contains all core documents, governance structures, and metadata related to the Global Park DAO. All files are permanently stored on IPFS and linked to the ENS domain `globalpark.eth`.
 
