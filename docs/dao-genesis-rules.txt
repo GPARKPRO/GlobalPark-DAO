@@ -1,0 +1,78 @@
+Genesis Operating Rules
+
+Global Park DAO – Governance Framework for Genesis Phase
+
+⸻
+
+1. Purpose
+
+This document outlines the operational and governance principles for Global Park DAO during its initial (Genesis) phase.
+At this stage, before public governance is activated, all decisions are executed by a DAO Council via multisignature control.
+
+⸻
+
+2. DAO Council
+	•	Members: 5 designated wallet addresses
+	•	Threshold: 3 of 5 signatures are required to execute any action
+	•	Purpose: collective governance and decentralization safeguards
+	•	Council Addresses:
+	•	0x2e27D6811A9777633b14c046e6F1ce7D6e286A17
+	•	0xcE72723445048fA89aF94d9DaFc93e3471Bb4F6D
+	•	0x968Dc9957B814c89f1939FC55B9579954B25b220
+	•	0xfdE3aC36cfd7Ee253A1454255B0A80964D842c15
+	•	0xCB7aa26564a12de414882F0757D11E35BeDC1FF0
+
+⸻
+
+3. Council Powers
+
+The DAO Council is authorized to:
+	•	Manage the DAO treasury
+	•	Execute privileged smart contract functions (e.g., lockTokens, snapshot)
+	•	Publish and update ENS/IPFS records
+	•	Initiate airdrops, grants, and partnerships
+	•	Set up Snapshot governance (when ready)
+
+⸻
+
+4. No Public Voting During Genesis
+	•	Snapshot and token-holder voting are not active during the Genesis phase
+	•	All decisions are authorized internally via 3-of-5 multisignature approval
+	•	Public governance will begin during the Autonomous Phase
+
+⸻
+
+5. Transparency
+	•	All Council actions are executed on-chain through Gnosis Safe
+	•	DAO structure is publicly recorded in the ENS profile globalpark.eth
+	•	DAO Wallet Map is available at:
+ipfs://bafkreibsz6wgrwuxks2yfhd45rrmdxsubsesvywyajchflyrfrtxy5kj2m
+
+⸻
+
+6. Transition to Autonomous Governance
+
+Global Park DAO will transition to public, token-based governance when any of the following conditions are met:
+	•	6 months have passed since DAO activation
+	•	20% or more of GPARK tokens are in active circulation
+	•	At least 100 unique token holders are verified
+	•	The DAO Council votes to initiate the transition
+	•	Snapshot is deployed and first governance proposal is held with quorum
+
+⸻
+
+7. Execution Address Policy
+
+The deployer address of the GPARK token (0xa22a70863e3b5723a5c732632139E1a7Bd0a637D)
+retains execution rights required by the smart contract but is no longer individually controlled.
+This address is used solely for the execution of DAO-approved actions, under 3-of-5 DAO Council consensus.
+Its private key is secured through hardware or MPC protocols.
+No privileged actions can be performed unilaterally from this address.
+
+⸻
+
+8. Contact and Infrastructure
+	•	ENS Profile: globalpark.eth
+	•	GPARK Token Contract: 0x18dD9d45f42B34F665ac2Dc4b97f10e4e81C7938
+	•	DAO Execution Address: 0xa22a70863e3b5723a5c732632139E1a7Bd0a637D
+	•	Snapshot: https://snapshot.org/#/globalpark.eth (to be activated during Autonomous Phase)

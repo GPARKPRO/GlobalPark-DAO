@@ -1,0 +1,55 @@
+# DAO Operating Mandate  
+Global Park DAO – Treasury & Execution Policy
+
+## 1. Overview
+
+This document outlines the operational mandate governing the execution and treasury management of Global Park DAO during its Genesis Phase.
+
+The DAO operates through a Gnosis Safe multisignature wallet and a designated execution address for privileged smart contract functions.
+
+## 2. DAO Council Multisig (Safe)
+
+- Address: 0x4C7635EC1f6870cBBD58c13e3aEB4e43B7EE7183  
+- Type: Gnosis Safe  
+- Signers:
+  - 0x2e27D6811A9777633b14c046e6F1ce7D6e286A17 (Coordinator)  
+  - 0xcE72723445048fA89aF94d9DaFc93e3471Bb4F6D (SmartCC)  
+  - 0x968Dc9957B814c89f1939FC55B9579954B25b220 (GovAdmin)  
+  - 0xfdE3aC36cfd7Ee253A1454255B0A80964D842c15 (Compliance)  
+  - 0xCB7aa26564a12de414882F0757D11E35BeDC1FF0 (Emergency)  
+- Threshold: 3 out of 5 required for execution
+
+## 3. Execution Address
+
+- Address: 0xa22a70863e3b5723a5c732632139E1a7Bd0a637D  
+- Purpose: Executes privileged smart contract functions (e.g., lockTokens, snapshot)  
+- Control: Bound to DAO Council consensus.  
+  No privileged function may be executed without Council authorization and documentation.
+
+## 4. Treasury Policy
+
+- All funds and token reserves are held in the DAO Safe  
+- Any asset movement (e.g., transfers, grants, staking, external payments) must be approved by at least 3 DAO signers  
+- Transactions are executed via Gnosis Safe at https://safe.global and logged on-chain
+
+## 5. Phase Status
+
+- Current Phase: Genesis  
+- Governance: Off-chain, through DAO Council multisignature consensus  
+- Autonomous Phase (public Snapshot voting) will begin once community thresholds are met
+
+## 6. References
+
+- DAO Wallet Map:  
+  ipfs://bafkreieo4ujo637tljszdv5o43dz7bqt74x5pwvzj6kjwmbn4rtrc3igfm
+
+- Genesis Rules:  
+  ipfs://bafkreihpgobj42nzzzqpkwtoh2fs5mopkrkpfv2iluvbdzfml6uptuzsku
+
+- Launch Report:  
+  ipfs://bafkreif6vshncnh5kc35ppwhjc73c7klnhes5qzc3ya6t4ncklvfrz5zge
+
+## 7. Issued By
+
+Global Park DAO Council  
+April 2025

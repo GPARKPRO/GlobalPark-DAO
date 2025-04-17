@@ -1,0 +1,71 @@
+DAO Launch Confirmation Report
+
+Global Park DAO
+
+⸻
+
+This document confirms the official activation and operational governance structure of the Global Park DAO.
+
+The DAO is now functioning independently through a 3-of-5 Council multisignature mechanism.
+The deployer address of the GPARK token retains technical privileges but acts only under DAO Council approval.
+
+⸻
+
+1. DAO Name
+
+Global Park DAO
+
+2. ENS Profile
+
+globalpark.eth
+
+3. Token
+
+GPARK (utility token)
+
+4. Token Contract
+
+0x18dD9d45f42B34F665ac2Dc4b97f10e4e81C7938
+
+5. Deployer Address
+
+0xa22a70863e3b5723a5c732632139E1a7Bd0a637D
+Bound to DAO control. Executes only upon Council approval (3-of-5).
+
+⸻
+
+6. DAO Council (Multisig 3 of 5)
+	•	0x2e27D6811A9777633b14c046e6F1ce7D6e286A17
+	•	0xcE72723445048fA89aF94d9DaFc93e3471Bb4F6D
+	•	0x968Dc9957B814c89f1939FC55B9579954B25b220
+	•	0xfdE3aC36cfd7Ee253A1454255B0A80964D842c15
+	•	0xCB7aa26564a12de414882F0757D11E35BeDC1FF0
+
+Threshold: 3 of 5 signatures required for execution
+
+⸻
+
+7. Current Governance Phase
+
+Genesis
+	•	No public Snapshot voting yet
+	•	All decisions made by the DAO Council
+	•	Transition to autonomous phase planned after:
+	•	6 months, or
+	•	20% GPARK in circulation, or
+	•	100+ token holders, or
+	•	Snapshot quorum activated
+
+⸻
+
+8. Official DAO Records
+	•	DAO Wallet Map:
+ipfs://bafkreibsz6wgrwuxks2yfhd45rrmdxsubsesvywyajchflyrfrtxy5kj2m
+	•	Genesis Rules:
+ipfs://bafkreihpgobj42nzzzqpkwtoh2fs5mopkrkpfv2iluvbdzfml6uptuzsku
+	•	ENS Profile: globalpark.eth
+
+⸻
+
+Confirmed: April 2025
+Issued by: Global Park DAO Council

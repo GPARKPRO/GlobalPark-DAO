@@ -1,0 +1,36 @@
+# DAO Wallet Map – Global Park
+
+## 1. DAO Treasury (Gnosis Safe)
+- Address: 0x4C7635EC1f6870cBBD58c13e3aEB4e43B7EE7183
+- Type: Gnosis Safe (3 of 5 multisig)
+- Purpose: Treasury management, contract interaction, official DAO operations
+
+## 2. Execution Address (Deployer)
+- Address: 0xa22a70863e3b5723a5c732632139E1a7Bd0a637D
+- Purpose: Smart contract deployer. Executes privileged functions (e.g., lockTokens)
+- Note: Execution is bound to DAO Council consensus (3-of-5 multisig)
+
+## 3. Token Contract
+- Address: 0x18dD9d45f42B34F665ac2Dc4b97f10e4e81C7938
+- Type: ERC-20 (GPARK)
+- Ownership: Immutable
+
+## 4. ENS Profile
+- Domain: globalpark.eth
+- Use: Identity, IPFS linkage, DAO signaling
+
+## 5. DAO Council (Multisig Signers)
+
+| Role         | Address                                  |
+|--------------|-------------------------------------------|
+| Coordinator  | 0x2e27D6811A9777633b14c046e6F1ce7D6e286A17 |
+| SmartCC      | 0xcE72723445048fA89aF94d9DaFc93e3471Bb4F6D |
+| GovAdmin     | 0x968Dc9957B814c89f1939FC55B9579954B25b220 |
+| Compliance   | 0xfdE3aC36cfd7Ee253A1454255B0A80964D842c15 |
+| Emergency    | 0xCB7aa26564a12de414882F0757D11E35BeDC1FF0 |
+
+- Threshold: 3 of 5
+
+## 6. Snapshot (Planned)
+- Space: snapshot.org/#/globalpark.eth
+- Status: To be activated during Autonomous Phase
