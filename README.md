@@ -21,7 +21,7 @@ This repository contains all core documents, governance structures, and metadata
 | ✅ About Global Park    | [View](https://gateway.pinata.cloud/ipfs/bafkreibsz6wgrwuxks2yfhd45rrmdxsubsesvywyajchflyrfrtxy5kj2m) |
 | ✅ Onboarding           | [View](https://gateway.pinata.cloud/ipfs/bafkreibvhjlskglq7hb6zzpooeo7fw63fj7l44zb3tpgdnwmib3vgjynme) |
 | ✅ Founder Manifesto    | [View](https://gateway.pinata.cloud/ipfs/bafkreihdrgjecfwjjmz4ot3hzuw6xi5mopjokpzddhkykuzwwhhxd44gya) |
-
+| ✅ Mirror Publication    | [View](https://mirror.xyz/globalpark.eth/7DWxDd_-QHu5DntjY19dAXr0JR4pG-_liFIkqWF45qU) |
 ---
 
 ## 🛠 ENS Text Records
