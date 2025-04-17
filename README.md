@@ -1,5 +1,11 @@
 # 🌐 Global Park DAO – Public Governance Records
 
+![ENS](https://img.shields.io/badge/ENS-globalpark.eth-6f42c1?style=flat-square&logo=ethereum)
+![IPFS](https://img.shields.io/badge/IPFS-Documents-blue?style=flat-square&logo=ipfs)
+![DAO Phase](https://img.shields.io/badge/DAO_Phase-Genesis-brightgreen?style=flat-square)
+![Safe Multisig](https://img.shields.io/badge/Safe_Multisig-3_of_5-orange?style=flat-square&logo=gnosis)
+![Powered by](https://img.shields.io/badge/Powered_by-GPARK_Token-purple?style=flat-square&logo=ethereum)
+
 This repository contains all core documents, governance structures, and metadata related to the Global Park DAO. All files are permanently stored on IPFS and linked to the ENS domain `globalpark.eth`.
 
 ---
