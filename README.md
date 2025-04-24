@@ -1,49 +1,106 @@
-# 🌐 Global Park DAO – Public Governance Records
+# 🌍 Global Park DAO
+**A Decentralized Initiative for Art, Technology & Collective Memory**
 
-[![ENS](https://img.shields.io/badge/ENS-globalpark.eth-6f42c1?style=flat-square&logo=ethereum)](https://app.ens.domains/name/globalpark.eth)
-[![IPFS](https://img.shields.io/badge/IPFS-Documents-blue?style=flat-square&logo=ipfs)](https://gateway.pinata.cloud/ipfs/bafkreif6vshncnh5kc35ppwhjc73c7klnhes5qzc3ya6t4ncklvfrz5zge)
-[![DAO Phase](https://img.shields.io/badge/DAO_Phase-Genesis-brightgreen?style=flat-square)](https://github.com/GPARKPRO/GlobalPark-DAO/tree/main/docs)
-[![Safe Multisig](https://img.shields.io/badge/Safe_Multisig-3_of_5-orange?style=flat-square&logo=gnosis)](https://app.safe.global/eth:0x4C7635EC1f6870cBBD58c13e3aEB4e43B7EE7183)
-[![Powered by](https://img.shields.io/badge/Powered_by-GPARK_Token-purple?style=flat-square&logo=ethereum)](https://etherscan.io/token/0x18dD9d45f42B34F665ac2Dc4b97f10e4e81C7938)
+_“Not just a token. Not just a park. A movement.”_
 
-This repository contains all core documents, governance structures, and metadata related to the Global Park DAO. All files are permanently stored on IPFS and linked to the ENS domain `globalpark.eth`.
+</div>
 
 ---
 
-## 📄 Core Documents (IPFS-verified)
+## 📌 What is Global Park DAO?
 
-| Document               | IPFS Link |
-|------------------------|-----------|
-| ✅ Launch Report        | [View](https://gateway.pinata.cloud/ipfs/bafkreif6vshncnh5kc35ppwhjc73c7klnhes5qzc3ya6t4ncklvfrz5zge) |
-| ✅ Genesis Rules        | [View](https://gateway.pinata.cloud/ipfs/bafkreihpgobj42nzzzqpkwtoh2fs5mopkrkpfv2iluvbdzfml6uptuzsku) |
-| ✅ Wallet Map           | [View](https://gateway.pinata.cloud/ipfs/bafkreieo4ujo637tljszdv5o43dz7bqt74x5pwvzj6kjwmbn4rtrc3igfm) |
-| ✅ DAO Mandate          | [View](https://gateway.pinata.cloud/ipfs/bafkreic22kl52wgwbrieuybhnjxfwunwola3hk47vldpjtw3jsqmkhqsgi) |
-| ✅ About Global Park    | [View](https://gateway.pinata.cloud/ipfs/bafkreibsz6wgrwuxks2yfhd45rrmdxsubsesvywyajchflyrfrtxy5kj2m) |
-| ✅ Onboarding           | [View](https://gateway.pinata.cloud/ipfs/bafkreibvhjlskglq7hb6zzpooeo7fw63fj7l44zb3tpgdnwmib3vgjynme) |
-| ✅ Founder Manifesto    | [View](https://gateway.pinata.cloud/ipfs/bafkreihdrgjecfwjjmz4ot3hzuw6xi5mopjokpzddhkykuzwwhhxd44gya) |
-| ✅ Mirror Publication    | [View](https://mirror.xyz/globalpark.eth/7DWxDd_-QHu5DntjY19dAXr0JR4pG-_liFIkqWF45qU) |
----
+Global Park DAO is a global cultural infrastructure project combining:
+- 🏞 **Physical space** — real-world installations with programmable architecture
+- 🧠 **Collective memory** — each object represents a contribution
+- 🌐 **Web3 governance** — DAO-managed decision-making and token-based participation
+- 🔐 **On-chain permanence** — verifiable ownership, ENS metadata, IPFS-hosted documents
 
-## 🛠 ENS Text Records
-
-| Key                  | Value |
-|----------------------|-------|
-| `wallet-map`         | ipfs://bafkreieo4ujo637tljszdv5o43dz7bqt74x5pwvzj6kjwmbn4rtrc3igfm |
-| `genesis-rules`      | ipfs://bafkreihpgobj42nzzzqpkwtoh2fs5mopkrkpfv2iluvbdzfml6uptuzsku |
-| `launch-report`      | ipfs://bafkreif6vshncnh5kc35ppwhjc73c7klnhes5qzc3ya6t4ncklvfrz5zge |
-| `DAO-operating-mandate` | ipfs://bafkreic22kl52wgwbrieuybhnjxfwunwola3hk47vldpjtw3jsqmkhqsgi |
-| `about`              | ipfs://bafkreibsz6wgrwuxks2yfhd45rrmdxsubsesvywyajchflyrfrtxy5kj2m |
+Every action — from leaving a message to activating a sculpture — becomes part of a decentralized legacy.
 
 ---
 
-## 🔐 DAO Governance Infrastructure
+## 🧱 Core Principles
 
-- **ENS:** [`globalpark.eth`](https://app.ens.domains/name/globalpark.eth)
-- **DAO Treasury (Safe):** `0x4C7635EC1f6870cBBD58c13e3aEB4e43B7EE7183` (3-of-5 multisig)
-- **Execution Address:** `0xa22a70863e3b5723a5c732632139E1a7Bd0a637D`
-- **Token Contract:** `0x18dD9d45f42B34F665ac2Dc4b97f10e4e81C7938`
-- **Phase:** Genesis
+- **Decentralization first:** no company, no owner. Only the DAO.
+- **Transparency by design:** all treasury and governance records are on-chain.
+- **No speculation:** GPARK is a utility token, not an investment product.
+- **Art meets function:** NFTs = coordinates, identity, and access.
+
+> 📍 ENS Identity: [`globalpark.eth`](https://app.ens.domains/name/globalpark.eth)  
+> 🔗 Smart Contract: [`0xA88C78A9b635c9724103bAA7745c2A32E9b9F1da`](https://etherscan.io/address/0xA88C78A9b635c9724103bAA7745c2A32E9b9F1da)
 
 ---
 
-For more information, visit [https://globalpark.eth.link](https://globalpark.eth.link)
+## 🧾 Key Documents (📁 `docs/`)
+
+📚 **Recommended Reading Order**:
+1. `01_Founder_Manifesto.pdf` – The philosophical origin of the project  
+2. `02_WhitePaper.pdf` – Full architecture, purpose, roadmap  
+3. `03_Constitution_DAO.pdf` – Legal & governance framework  
+4. `04_Tokenomics_&_Economic_Model.pdf` – Basic economic design  
+5. `05_Extended_Tokenomics_&_Strategic_Model.pdf` – Scenario analysis, comparisons, listings  
+
+🧩 **Supplementary:**
+- `DAO_UAE_Legal_Compatibility.pdf` – Legal positioning in the UAE
+- `DAO_Charter_Ratification.pdf` – Council ratification record
+- `Declaration_DAO.pdf` – Principles for external stakeholders
+- `Onboarding_DAO.pdf` – Guide for new contributors
+- `NFT_as_Phygital_Heritage.pdf` – Vision of NFTs as cultural memory
+- `OUR_VISION_2030.pdf` – Where we’re headed
+- `Architectural_Concept.pdf` – Physical layout and design
+
+> 🧭 All documents are IPFS-linked via ENS: [globalpark.eth](https://app.ens.domains/name/globalpark.eth)
+
+---
+
+## 💠 Token Overview
+
+- **Token Name:** GPARK  
+- **Type:** Utility / Governance (ERC20 + Permit + Votes)  
+- **Supply:** 21,000,000 fixed  
+- **Owner:** DAO Treasury (Gnosis Safe, 3-of-5 multisig)  
+- **No minting**, **no admin**, **no inflation**.  
+
+🏛 Treasury Address: [`0x4C7635EC1f6870cBBD58c13e3aEB4e43B7EE7183`](https://etherscan.io/address/0x4C7635EC1f6870cBBD58c13e3aEB4e43B7EE7183)
+
+---
+
+## 🧠 Governance Phases
+
+| Phase        | Status     | Description |
+|--------------|------------|-------------|
+| Genesis      | ✅ Active  | DAO Council signs and executes votes (Snapshot = advisory) |
+| Autonomous   | 🔜 Planned | Full token-holder governance via Snapshot, quorum rules |
+
+---
+
+## 👋 How to Contribute
+
+🛠 Developers  
+→ Help build modules for staking, governance, or coordinate mapping
+
+🖋 Writers / Translators  
+→ Help improve documentation and make it multilingual
+
+🧑‍🎨 Artists & Architects  
+→ Propose installations, design new zones, or contribute to the park’s form
+
+🧠 Strategists  
+→ Join governance, propose partnerships, co-create grants
+
+> ✨ Everyone is welcome. No KYC. No permission needed. Just GPARK and purpose.
+
+---
+
+## 🤝 Join the Movement
+
+🔗 Official ENS Portal: [globalpark.eth](https://app.ens.domains/name/globalpark.eth)  
+🌐 Website: [GlobalPark.io](https://globalpark.io)  
+📜 Mirror Publication: [mirror.xyz/globalpark.eth](https://mirror.xyz/globalpark.eth)  
+📣 Twitter / Discord / Telegram coming soon
+
+---
+
+<div align="center">
+  🏛 Built by the community. Owned by no one. Open to all.
+</div>
