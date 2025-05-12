@@ -26,8 +26,8 @@ Every action — from leaving a message to activating a sculpture — becomes pa
 - **No speculation:** GPARK is a utility token, not an investment product.
 - **Art meets function:** NFTs = coordinates, identity, and access.
 
-> 📍 ENS Identity: [`globalpark.eth`](https://app.ens.domains/name/globalpark.eth)  
-> 🔗 Smart Contract: [`0xA88C78A9b635c9724103bAA7745c2A32E9b9F1da`](https://etherscan.io/address/0xA88C78A9b635c9724103bAA7745c2A32E9b9F1da)
+> 📍 ENS Identity: [`GlobalParkDAO.eth`](https://app.ens.domains/name/GlobalParkDAO.eth)
+> 🔗 Smart Contract: [`0x470AAb2A10F3b0757Df977C39dDe3475F76f81B9`](https://etherscan.io/address/0x470AAb2A10F3b0757Df977C39dDe3475F76f81B9)
 
 ---
 
@@ -49,7 +49,7 @@ Every action — from leaving a message to activating a sculpture — becomes pa
 - `OUR_VISION_2030.pdf` – Where we’re headed
 - `Architectural_Concept.pdf` – Physical layout and design
 
-> 🧭 All documents are IPFS-linked via ENS: [globalpark.eth](https://app.ens.domains/name/globalpark.eth)
+> 🧭 All documents are IPFS-linked via https://www.globalpark.io/docs
 
 ---
 
@@ -61,7 +61,7 @@ Every action — from leaving a message to activating a sculpture — becomes pa
 - **Owner:** DAO Treasury (Gnosis Safe, 3-of-5 multisig)  
 - **No minting**, **no admin**, **no inflation**.  
 
-🏛 Treasury Address: [`0x4C7635EC1f6870cBBD58c13e3aEB4e43B7EE7183`](https://etherscan.io/address/0x4C7635EC1f6870cBBD58c13e3aEB4e43B7EE7183)
+🏛 Treasury Address: [`0x470AAb2A10F3b0757Df977C39dDe3475F76f81B9`](https://etherscan.io/address/0x470AAb2A10F3b0757Df977C39dDe3475F76f81B9)
 
 ---
 
@@ -94,9 +94,8 @@ Every action — from leaving a message to activating a sculpture — becomes pa
 
 ## 🤝 Join the Movement
 
-🔗 Official ENS Portal: [globalpark.eth](https://app.ens.domains/name/globalpark.eth)  
 🌐 Website: [GlobalPark.io](https://globalpark.io)  
-📜 Mirror Publication: [mirror.xyz/globalpark.eth](https://mirror.xyz/globalpark.eth)  
+
 📣 Twitter / Discord / Telegram coming soon
 
 ---
