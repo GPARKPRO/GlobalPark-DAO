@@ -655,3 +655,4 @@ All key documents defining the identity, structure, and operational principles o
 **Global Park DAO**  
 A Decentralized Initiative for Art, Technology & Collective Memory  
 ✦ Document issued under the authority of DAO Assembly
+
