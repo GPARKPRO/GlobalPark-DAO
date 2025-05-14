@@ -1,130 +1,14 @@
-# 🌐 GLOBAL PARK DAO — WHITE PAPER
-
-### A Decentralized Initiative for Art, Technology & Collective Memory
-
-We are building a decentralized initiative where every token and action contributes to preserving digital and physical heritage.  
-Our mission is to align real-world activation with Web3 culture, staking, and long-term impact.
-
----
-
-## ✦ Table of Contents
-
-1. [Executive Summary](#1-executive-summary)
-2. [Vision & Philosophy](#2-vision--philosophy)
-3. [Digital Heritage: From NFTs to Physical Presence](#3-digital-heritage-from-nfts-to-physical-presence)
-4. [Use Cases & Ecosystem](#4-use-cases--ecosystem)
-5. [DAO Governance Architecture](#5-dao-governance-architecture)
-6. [The GPARK Token](#6-the-gpark-token)
-7. [Treasury & Financial Design](#7-treasury--financial-design)
-8. [Roadmap](#8-roadmap)
-9. [Legal & Compliance](#9-legal--compliance)
-10. [Legal & Declarative Documentation](#10-legal--declarative-documentation)
-
----
-
 ## 1️⃣ Executive Summary
 
-➡ **Project mission and high-level overview**  
-➡ **What problem the DAO addresses**  
-➡ **The solution and value proposition**  
-➡ **What makes Global Park unique**
-
----
-
-## 2️⃣ Vision & Philosophy
-
-➡ **Core principles: art, technology, and collective memory**  
-➡ **Connection to sustainability**  
-➡ **Why decentralized governance is essential for this mission**
-
----
-
-## 3️⃣ Digital Heritage: From NFTs to Physical Presence
-
-➡ **Role of NFTs in the ecosystem**  
-➡ **Airdrop and single-mint mechanics**  
-➡ **Cultural and digital significance**  
-➡ **Use cases: memory preservation, artistic activation**
-
----
-
-## 4️⃣ Use Cases & Ecosystem
-
-➡ **Individual participation**  
-➡ **B2B integrations and institutional collaborations**  
-➡ **Offline installations, online hubs**  
-➡ **Artistic and cultural curation layer**
-
----
-
-## 5️⃣ DAO Governance Architecture
-
-➡ **DAO Council: structure, signers, roles**  
-➡ **DAO Treasury: Gnosis Safe (3-of-5 multisig)**  
-➡ **Execution Address: purpose, limitations, and oversight**  
-➡ **Governance phases: Genesis → Autonomous**  
-➡ **Use of Snapshot, ENS, IPFS**
-
----
-
-## 6️⃣ The GPARK Token
-
-➡ **Utility purpose: access, activation, participation**  
-➡ **On-chain contract features (immutable, lock/vesting enabled)**  
-➡ **Token address + ENS identity**  
-➡ **Distribution overview and rationale**  
-➡ **Clarification: not a financial instrument**
-
----
-
-## 7️⃣ Treasury & Financial Design
-
-➡ **DAO Treasury address and governance**  
-➡ **Budget control under multisig**  
-➡ **Funding principles: grants, partnerships, sustainability**  
-➡ **No investment or profit guarantees**  
-➡ **How treasury decisions are made**
-
----
-
-## 8️⃣ Roadmap
-
-➡ **Completed steps (Token, DAO, IPFS, ENS)**  
-➡ **Current stage (Snapshot, Mirror, Governance visibility)**  
-➡ **Next phase (NFT drop, community expansion, first proposals)**  
-➡ **Autonomous phase activation**
-
----
-
-## 9️⃣ Legal & Compliance
-
-➡ **GPARK token = utility, non-security**  
-➡ **No promises of return or investment opportunity**  
-➡ **DAO operates as a non-profit, community-led structure**  
-➡ **Jurisdictional considerations (UAE + DAO-native positioning)**
-
----
-
-## 🔟 Legal & Declarative Documentation
-
-- DAO Wallet Map (IPFS)  
-- Genesis Rules (IPFS)  
-- DAO Launch Report  
-- Contact for partnerships and collaboration  
-
----
-
-## 1️⃣ Executive Summary
-
-Global Park DAO is a decentralized initiative at the intersection of **art, technology, and collective memory**.  
+Global Park DAO is a **decentralized initiative at the intersection of art, technology, and collective memory**.  
 Built on **Ethereum** and governed by a **multisignature DAO Council**, the project seeks to redefine how physical and digital spaces can coexist through a shared, blockchain-anchored cultural ecosystem.
 
 In a world where creative expression is often siloed, monetized, and owned by closed systems, Global Park proposes a **radically open and transparent model**.  
-The park is not simply a physical location — it is a living layer of programmable space, shaped by its community and made scarce by design.  
+The park is not simply a physical location — it is a **living layer of programmable space**, shaped by its community and made scarce by design.  
 Every object, digital or physical, represents a **unique coordinate** in a new kind of landscape, powered by the **GPARK token** and curated by collective governance.
 
 The DAO introduces a system where **individuals, creators, and institutions** can co-create and claim presence within the park.  
-While the token offers **no promise of profit**, its utility as a gateway to limited physical space and network-based collaboration presents an **asymmetric opportunity for value generation**.  
+While the token offers **no promise of profit**, its utility serves only as a **participation and coordination tool for cultural activation and community engagement**.  
 In this structure, every participant becomes a potential **builder, contributor, or steward**.
 
 What makes Global Park unique is its **long-view design**:
@@ -137,14 +21,17 @@ What makes Global Park unique is its **long-view design**:
 
 ### 2.1 ✦ Vision: Decentralized Cultural Landscape
 
-Global Park DAO is a **next-generation cultural system** in which digital artifacts (**NFTs**) become the foundation for creating physical installations, public spaces, and architectural expressions of memory.
+Global Park DAO is a **next-generation cultural system** where digital artifacts (**NFTs**) become the foundation for creating:
+- Physical installations,
+- Public spaces,
+- Architectural expressions of memory.
 
-We are building more than just a token ecosystem — we’re designing a **living cultural landscape**, where each unit of digital heritage is:
+We are building more than just a token ecosystem — we are designing a **living cultural landscape**, where each unit of digital heritage is:
 - Anchored in space,
 - Tied to coordinates,
 - Brought to life.
 
-This park exists in **three parallel dimensions**:
+The park exists in **three parallel dimensions**:
 - 🏛 **Physically** — as an evolving, walkable terrain of architecture, sculptures, and curated spaces.
 - 🔗 **On-chain** — as a DAO-managed structure of governance, token utility, and NFT provenance.
 - 🎭 **Culturally** — as a long-term initiative that safeguards, co-creates, and archives collective memory.
@@ -154,7 +41,7 @@ The ultimate goal of GPARK is to create the world’s **first decentralized cult
 - But by a **transparent, token-based protocol of participation and presence**.
 
 Each NFT is not just a collectible:
-- It’s a **programmable coordinate**,
+- It is a **programmable coordinate**,
 - A **signal of contribution**,
 - A **permanent fixture in a shared spatial narrative**.
 
@@ -162,10 +49,10 @@ Each NFT is not just a collectible:
 
 ### 2.2 ✦ Philosophy: Art, Transparency, Memory
 
-Global Park DAO arises from a simple yet vital idea:  
-**Culture, art, and memory deserve decentralized foundations.**
+Global Park DAO arises from a simple yet vital idea:
+> Culture, art, and memory deserve decentralized foundations.
 
-We envision a future in which both physical and digital spaces are:
+We envision a future where both physical and digital spaces are:
 - Not owned or exploited,
 - But **co-created, protected, and activated** by the communities that inhabit them.
 
@@ -177,7 +64,8 @@ Our philosophical base rests on **three pillars**:
 2. 🛡 **Technology as transparency** – every decision, transaction, and permission is recorded on-chain.
 3. 🗺 **Memory as coordination** – every object is not just a file or sculpture, but a fragment of shared significance.
 
-Aligned with long-term cultural frameworks such as **Dubai 2040**, the project is not speculative — it is architectural.  
+Aligned with long-term cultural frameworks such as **Dubai 2040**,  
+the project is not speculative — it is architectural.  
 Every coordinate, every participant, every block on-chain is a **building block in a decentralized cultural future**.
 
 ---
@@ -190,23 +78,49 @@ At the heart of this system lies the **NFT layer**, which enables:
 - Cultural imprinting,
 - Permanent anchoring of contributions to the park’s landscape.
 
-Each NFT minted within the Global Park ecosystem corresponds to a specific **coordinate, object, memory, or conceptual presence**.  
-These are not generic collectibles, but rather **nodes of cultural inheritance** — programmable, visible, and co-authored by the community.
+Each NFT minted within the Global Park ecosystem corresponds to a:
+- **Specific coordinate**
+- **Object**
+- **Memory**
+- **Conceptual presence**
 
-### 🎨 The NFT layer serves the following roles:
+These are not generic collectibles, but **nodes of cultural inheritance**:
+> Programmable, visible, and co-authored by the community.
 
-- 🗺 **Spatial Representation** – Every NFT is tied to a specific zone, object, or experience within the park.
-- 🎟 **Access & Activation** – Some functions in the DAO may require possession of a specific NFT (e.g., participation in certain sub-governance groups, creative campaigns, or rituals).
-- 🏛 **Curation & Preservation** – NFTs can curate shared memories, represent artist contributions, or mark meaningful events in the DAO’s timeline.
+---
 
-In the **Genesis Phase**, Global Park will launch an initial collection of **10,000 NFTs**, available via **single-mint per wallet**.  
-These NFTs may unlock access to early participation incentives and future activations.
+### 🎯 The NFT layer serves the following roles:
+
+- 🗺 **Spatial Representation**  
+Each NFT may be tied to a specific zone, object, or experience within the park.
+
+- 🎖 **Cultural Recognition & Participation**  
+NFTs act as symbolic badges of early contribution and community engagement.  
+Holders will be permanently recognized on the **Global Park Participation Wall** (online and physical).  
+❗ NFTs do **not grant voting rights** in DAO governance (reserved for GPARK token holders).
+
+- 🎨 **Curation & Preservation**  
+NFTs can curate shared memories, represent artist contributions, or mark meaningful moments in the DAO’s timeline.
+
+---
+
+### 🪙 Genesis NFT Launch
+
+In the **Genesis Phase**, Global Park will launch an initial **limited collection of NFTs**:
+- Available through **single-mint per wallet**
+- Serve as **early contributor badges and participation artifacts**
+- ❌ Not governance tokens
 
 Each NFT will be:
-- Linked to **ENS metadata**,
-- Registered on **IPFS** to ensure decentralization and long-term verifiability.
+- Linked to **ENS metadata**
+- Registered on **IPFS** for decentralization and verifiability
 
-⚠ **Ownership of an NFT does not guarantee rights or profit**, but offers **cultural presence and optional access** within a limited, shared domain.
+Ownership of NFTs:
+- ❌ Does not provide governance rights
+- ❌ Does not provide staking rewards or financial returns
+- ❌ Does not imply any claim over DAO assets
+
+> NFTs are strictly **participation artifacts**.
 
 ---
 
@@ -217,41 +131,41 @@ Each NFT will be:
 Global Park DAO allows individuals to establish a meaningful presence in a **decentralized cultural landscape**.
 
 🎯 **Participation opportunities:**
-- 📍 **Coordinate Ownership** — securing a specific area within the GPARK to associate with their name, art, or project.
-- 🎨 **Cultural Contribution** — embedding a personal or artistic legacy into a shared physical and digital environment.
-- 🔎 **Active Involvement** — proposing new installations through DAO voting, participating in cultural events, and engaging in Proof-of-Presence activities.
+- 📍 **Coordinate Ownership** — secure a specific area to associate with your name, art, or project.
+- 🎨 **Cultural Contribution** — embed a personal or artistic legacy into the environment.
+- 🗳 **Active Involvement** — propose installations, participate in cultural events, engage in Proof-of-Presence activities.
 
 💡 **Why it matters:**
-> Limited available spaces, a rare chance to leave a cultural mark in a new model of decentralized public space.
+> Limited available spaces create a rare chance to leave a cultural mark in a decentralized public space.
 
 ---
 
 ### 4.2 ✦ For Companies, Brands, and Institutions (B2B)
 
-Global Park DAO offers brands and organizations an opportunity to **anchor their identity** in a global cultural movement.
+Global Park DAO offers an opportunity to anchor organizational identity in a global cultural movement.
 
 🎯 **Participation opportunities:**
-- 🏛 **Branded Cultural Spaces** — creating or sponsoring art installations linked to corporate missions.
-- 💡 **Innovative Public Relations** — demonstrating leadership in cultural innovation and Web3 engagement.
-- 🌐 **Engagement with New Audiences** — connecting with a new generation through DAO-governed cultural initiatives.
+- 🎨 **Branded Cultural Spaces** — create or sponsor installations linked to your corporate mission.
+- 💡 **Innovative Public Relations** — demonstrate leadership in Web3 cultural innovation.
+- 🌐 **Engage with New Audiences** — connect with a new generation through DAO-driven cultural initiatives.
 
 💡 **Why it matters:**
-> Brand association with forward-looking, decentralized cultural initiatives strengthens global reputation without relying on traditional advertising channels.
+> Brand association with decentralized cultural initiatives strengthens global reputation without relying on traditional advertising channels.
 
 ---
 
 ### 4.3 ✦ For Ecosystems and City Programs
 
-GPARK opens collaboration paths for:
-- Cities,
-- Web3 projects,
-- Cultural programs,
-- Nonprofit initiatives.
+GPARK creates collaboration paths for:
+- Cities
+- Web3 projects
+- Cultural programs
+- Nonprofit initiatives
 
 🎯 **Participation opportunities:**
-- 🔗 **Cross-DAO Integration** — connecting different projects and communities through shared cultural spaces.
-- 🏙 **New Public Spaces** — building plazas and installations that represent decentralized, community-driven culture.
-- 🛠 **Transparent Co-Governance** — leveraging DAO tools for managing public cultural assets with full transparency.
+- 🔗 **Cross-DAO Integration** — connect diverse communities through shared cultural spaces.
+- 🏙 **New Public Spaces** — build plazas and installations representing decentralized community culture.
+- 🛡 **Transparent Co-Governance** — manage public cultural assets via DAO tools with full transparency.
 
 💡 **Why it matters:**
 > Municipalities and networks can pioneer decentralized cultural innovation, fostering global cultural bridges.
@@ -260,9 +174,9 @@ GPARK opens collaboration paths for:
 
 ### 4.4 ✦ GPARK Growth and Expansion
 
-- 📅 **2025–2026:** Launch of the first GPARK site in the UAE.
+- 📅 **2025–2026:** Initiation of site selection, land negotiations, and pilot installations (subject to regulatory and partnership agreements) in the UAE.
 - 📅 **2026–2027:** Expansion to major cultural cities through open DAO initiatives.
-- 📅 **By 2030:** A network of decentralized cultural parks connected under the GPARK DAO ecosystem.
+- 📅 **By 2030:** Establishment of a global network of decentralized cultural parks under GPARK DAO.
 
 > *“Your coordinate is not just a place. It’s your contribution to the cultural future.”*
 
@@ -273,14 +187,18 @@ GPARK opens collaboration paths for:
 ### ✦ For Individuals and Creators
 
 - 📍 Ownership of a **unique coordinate** within a global cultural landscape.
-- 🏛 The opportunity to leave a **lasting mark** in both digital and physical history.
+- 🏛 Opportunity to leave a **lasting mark** in both digital and physical history.
 - 🗳 Participation in **DAO voting** and cultural activations.
+
+---
 
 ### ✦ For Companies, Brands, and Institutions
 
 - 🎨 Creation of **branded art installations** within an innovative cultural environment.
 - 💡 Strengthening brand reputation through engagement in a **pioneering cultural project**.
-- 🌐 Access to **new audiences** through live and digital DAO-driven initiatives.
+- 🌐 Access to **new audiences** via DAO-driven live and digital initiatives.
+
+---
 
 ### ✦ For Ecosystems, Cities, and Communities
 
@@ -289,96 +207,132 @@ GPARK opens collaboration paths for:
 - 🛡 Full transparency, trust, and flexibility through **on-chain coordination**.
 
 > GPARK is a place where every contribution is anchored in space and time.  
-> Where every participant becomes a builder of the cultural future.
+> Where every participant becomes a **builder of the cultural future**.
 
 ---
 
 ## 5️⃣ DAO Governance Architecture
 
-Global Park DAO is governed through a **robust, transparent framework** built around:
-- A **multisignature treasury**,
-- **Verifiable public infrastructure**,
-- **Progressive decentralization**.
+The long-term mission of Global Park DAO:
+> 🏛 Evolve into a fully community-governed and decentralized organization.
 
-The model ensures **collective control, resilience, and full visibility** at every development stage.
+In the **Genesis Phase**, focus is on:
+- Operational stability,
+- Security,
+- Infrastructure development.
 
-At its core:
-> 🏛 The **DAO Council** composed of five independently held wallet addresses.  
-> All key decisions require **3-of-5 multisignature approval** via a **Gnosis Safe** smart contract.
-
-This forms the governance backbone of the **Genesis Phase**, where:
-- Foundational infrastructure is deployed,
-- The community is formed,
-- Operational frameworks are tested.
+The initial governance model:
+- ✅ Temporary Council structure
+- ✅ Clear and irreversible roadmap toward full community governance
 
 ---
 
-### 🛠 The DAO is organized around:
+### ✦ Community First
+
+- 👫 Building a strong and inclusive community of DAO participants is the top priority.
+- 📝 Early public listing:
+  - ❌ No private sales
+  - ❌ No VC allocations
+  - ❌ No exclusive investor rounds
+
+Every participant will have an **equal opportunity** to acquire GPARK tokens and join DAO governance.
+
+---
+
+### ✦ Governance Mechanism
+
+The DAO operates on:
+- 🛡 Multisignature treasury control
+- 🔗 On-chain records
+- 🔄 Progressive decentralization
+
+---
 
 ### ✦ DAO Council
 
-- Five signers responsible for:
-  - Treasury transactions,
-  - Protocol interactions,
-  - Token operations,
-  - Governance actions.
-- Fully transparent operation via **on-chain multisig system**.
+- Five-member DAO Council
+- Each member holds an independent wallet
+- Responsible for:
+  - Treasury transactions
+  - Protocol changes
+  - Execution of DAO decisions
+
+Actions require **3-of-5 multisignature approval** via **Gnosis Safe**.
+
+> The Council acts strictly as a steward,  
+> with no intention of permanent control.  
+> Its role is to protect, activate, and document DAO formation.
+
+---
+
+### 5.1 ✦ Voting & Proposal Thresholds
+
+Global Park DAO promotes early participation while protecting against spam:
+
+- 🗳 **Voting Rights:**  
+Any Ethereum wallet holding at least **100 unlocked GPARK tokens** is eligible to vote on Snapshot proposals.
+
+- 📝 **Proposal Submission:**  
+Requires:
+  - Holding at least **5,000 unlocked GPARK tokens**, or
+  - Receiving community endorsement via off-chain forum upvotes.
+
+- 🔁 **Delegation:**  
+Any GPARK holder may delegate their voting rights to another wallet.
+
+> These thresholds ensure inclusivity and quality.  
+> They can only be amended via future DAO voting after transition to the Autonomous Phase.
+
+---
 
 ### ✦ DAO Treasury (Gnosis Safe)
 
-- **Address:** `0xd45BA3Fb796CD735715aB6966f198d416EC353C1`
-- Central wallet of the DAO.
-- Holds and distributes funds based on approved proposals.
-- All funds are **non-custodial and controlled via multisig** (ETH, GPARK, partner allocations).
+- 🏦 Treasury Address: `0xd45BA3Fb796CD735715aB6966f198d416EC353C1`
+- Central treasury wallet
+- Holds and distributes:
+  - ETH
+  - GPARK tokens
+  - NFT revenue
+
+Funds are spent **strictly according to DAO-approved proposals**.
+
+---
 
 ### ✦ Token Contract Ownership
 
-- The **GPARK token smart contract** is fully owned by the DAO Treasury (`Ownable` pattern).
-- **Deployer address:** `0x06abf92e99151e2A6122C199878C491a3A487544` — reference only, holds no privileges.
-- All privileged functions (e.g. `lockTokens()`, `snapshot()`) can be executed **only via multisig authorization**.
+- The GPARK token contract is fully owned by the **DAO Treasury**.
+- No single actor holds admin rights.
+- All privileged functions require **Council multisig approval** during Genesis Phase.
 
-✅ Guarantees:
-> No centralized actor can alter token behavior, enforce upgrades, or override permissions.
+---
 
 ### ✦ IPFS Governance Records
 
-- All critical documents published and pinned on **IPFS**:
-  - Genesis Operating Rules,
-  - DAO Wallet Map,
-  - Launch Report.
-- Verifiably linked via the DAO’s **ENS profile**.
-
-### ✦ ENS Metadata
-
-- **ENS Domain:** `soon..`
-- Acts as on-chain identity anchor:
-  - Stores `contenthash` (IPFS),
-  - DAO Council addresses,
-  - Treasury map,
-  - Social links,
-  - Governance notices,
-  - Token contract details.
+All key documents (e.g.:
+- Genesis Rules
+- DAO Wallet Map
+- Launch Reports)  
+are:
+- 📥 Pinned and verifiable via **IPFS**
+- 🔗 Anchored to the DAO’s **ENS domain**
 
 ---
 
-### 🗳 Governance Phases
+### ✦ Governance Roadmap
 
-The roadmap includes a transition from:
-- **Genesis Phase (council-led execution)**  
-➡ to  
-- **Autonomous Phase (community-led voting)**
+1️⃣ **Genesis Phase (current)**  
+Council-led stewardship with DAO community formation.
 
-Upon activation of **Snapshot-based governance**, all GPARK token holders will be empowered to:
-- **Propose** and
-- **Vote** on decisions directly.
+2️⃣ **Autonomous Phase (future)**  
+Community-led governance via **Snapshot voting by GPARK token holders**.
 
-Until then, the **DAO Council acts as an accountable steward**:
-> Not for control, but for activating, safeguarding, and documenting the emergence of a decentralized cultural system.
+Upon completion of the transition:
+> 🛑 DAO Council’s role will shift to advisory or be dissolved entirely by community vote.
 
 ---
 
-📥 For complete details:
-[Full DAO Governance documentation →](https://github.com/GPARKPRO/GlobalPark-DAO/tree/main/docs)
+📥 For full details:  
+[DAO Governance Documentation →](https://github.com/GPARKPRO/GlobalPark-DAO/tree/main/docs)
 
 ---
 
@@ -386,143 +340,240 @@ Until then, the **DAO Council acts as an accountable steward**:
 
 The **GPARK token** is the native utility asset of the **Global Park DAO ecosystem**.  
 It is **not a financial instrument**, but rather a key that unlocks:
-- Participation,
-- Coordination,
-- Activation across both digital and physical dimensions of the park.
+- Participation
+- Coordination
+- Activation across both digital and physical park dimensions
 
-Issued through a **fully deployed and immutable smart contract** on Ethereum, GPARK serves three primary functions:
+Issued via a **fully deployed, immutable smart contract on Ethereum**, GPARK serves three primary functions:
 
 ### 🎯 Core Functions
 
 - 🗳 **Governance Participation**  
-In future phases, GPARK holders will be able to submit and vote on DAO proposals via **Snapshot**.  
-Governance parameters are finalized during the **Genesis Phase** and will activate once sufficient distribution and community presence is achieved.
+Future GPARK holders will be able to submit and vote on DAO proposals via **Snapshot**.  
+Governance parameters will be activated once sufficient distribution and community presence is achieved.
 
 - 🏛 **Access to Scarce Infrastructure**  
-The park has physically limited space.  
 GPARK will be required to:
-  - Register digital coordinates,
-  - Sponsor installations,
-  - Represent contributions in collaborative zones.
+  - Register digital coordinates
+  - Sponsor installations
+  - Represent contributions in collaborative zones
 
 - 🎭 **Cultural Activation**  
-GPARK may be used to:
-  - Participate in certain events,
-  - Mint NFT objects tied to land,
-  - Represent verified participation in collective memory projects.
+GPARK may be needed to:
+  - Engage in certain events
+  - Mint NFT objects tied to land
+  - Represent verified participation in collective memory projects
+
+---
 
 ### 🔗 Smart Contract Details
 
 - **Smart contract address:** `0x470AAb2A10F3b0757Df977C39dDe3475F76f81B9`
-- ERC20-compatible token with extended features:
-  - `ERC20Permit (EIP-2612)`,
-  - `ERC20Votes (Snapshot-compatible)`,
-  - Built-in vesting mechanism for contributors and partners.
-- No minting privileges, transfer of ownership, or admin functions.
-- Lock-up and vesting mechanisms managed by **DAO-approved execution**.
+- ERC20-compatible with extended features:
+  - `ERC20Permit (EIP-2612)`
+  - `ERC20Votes (Snapshot-compatible)`
+  - Built-in vesting for contributors and partners
 
-❗ **There is no expectation of profit or investment return.**  
-GPARK is designed as a **functional resource** for interaction with the DAO’s protocols, tools, and spaces.  
-Value is created through **activation, contribution, and cultural relevance**, not price speculation.
+❗ No minting privileges, no transfer of ownership, no admin functions.  
+Lock-up and vesting mechanisms are **DAO-approved only**.
 
-> This document provides a summary.  
-> For full details on tokenomics, distribution schedules, deflationary loops, and comparative analysis, see the [Extended Tokenomics Report →](https://github.com/GPARKPRO/GlobalPark-DAO/tree/main/docs)
+There is **no expectation of profit or investment return**.  
+GPARK is designed as a **functional resource for interaction with DAO protocols, tools, and spaces**.  
+Value comes from **activation, contribution, and cultural relevance**.
+
+📥 For full tokenomics details see the [Extended Tokenomics Report →](https://github.com/GPARKPRO/GlobalPark-DAO/tree/main/docs)
 
 ---
 
-### 6.1 ✦ Token Utility, Scarcity, and DAO-Supported Value
+## 6.1 ✦ Token Utility, Scarcity, and DAO-Supported Value
 
-GPARK is a **utility token** at the core of Global Park DAO architecture.  
-It plays a critical role in:
-- Participation,
-- Access,
-- Ecosystem expansion.
+GPARK plays a critical role in:
+- Participation
+- Access
+- Ecosystem expansion
 
 Every NFT in the park represents a **unique, fixed coordinate**:
-- Zones can be used for cultural installations, anchoring presence, or physical activation.
-- **NFTs are the only mechanism** for claiming space in the park (both digitally and physically).
+- Used for installations, presence, or physical activation
+- NFTs are **participation artifacts**, not governance tokens (governance = GPARK)
 
-✅ **GPARK is required** for:
-- Minting NFTs,
-- Transferring NFTs,
-- Activating NFTs.
+✅ GPARK is required for:
+- Minting NFTs
+- Transferring NFTs
+- Activating NFTs
 
-As the DAO grows, the GPARK amount required for **high-value coordinates** may increase.
+As the DAO grows:
+- Participation requirements may evolve
+- Community contribution thresholds may increase
 
-The total supply of NFTs is **capped** and will not be expanded:
-> This is not artificial scarcity but an architectural principle.  
-> Space is finite, making every NFT inherently valuable.
+NFT supply is **capped and will not expand**.  
+This is an **architectural principle**, not artificial scarcity.  
+Limited space = **inherent NFT value**.
 
 ---
 
 ### 🎯 Economic Logic and DAO Incentive Structure
 
-Although GPARK is **not intended for financial speculation**, the DAO naturally aims to sustain long-term demand to support:
+GPARK is **not intended for speculation**.  
+DAO mechanisms sustain **community participation and engagement**.
 
+Supported areas:
 - 🏗 Physical construction of park zones
 - 🛠 Development of governance tooling
-- 🎨 Cultural programming and public activations
-- 🌐 Global representation and institutional outreach
+- 🎭 Cultural programming and public activations
+- 🌐 Global institutional outreach
 
-The DAO **does not manage the price of GPARK**, but it creates conditions where the token reflects:
-- **Real participation**
-- **Contribution**
-- **Community-driven activity**
+The DAO does **not manage GPARK price**, but:
+> Designs systems where value reflects participation, contribution, and community activity.
 
-Every NFT-related transaction:
-- Minting,
-- Transfer,
+All NFT-related transactions:
+- Minting
+- Transfer
 - Zone assignment  
-➡ **Returns value to the DAO treasury.**
+➡ Return value to the **DAO treasury**
 
-All funds are **reinvested into the project** and **never redistributed to holders**.
+Funds are used **exclusively for project operations, development, and community initiatives**.  
+No funds are distributed to token holders as financial returns.
 
-> Any token or NFT price increases serve the project’s infrastructure and public cultural layers, not personal gain.
+> Token and NFT price increases serve **project infrastructure and cultural layers**, not personal gain.
+
+---
+
+## 6.2 ✦ Tokenomics Expansion: Future Modules
+
+The GPARK token is launched as a:
+- Clean
+- Immutable
+- DAO-governed asset
+
+It supports **modular expansion**:
+- New features can be added without changing the core token contract
+- Ensures transparency and verifiability
+
+---
+
+### 📝 Planned Modules (Official Roadmap)
+
+#### 1️⃣ GPARK Staking Module
+
+- 🏆 Long-term token lockup with community recognition multipliers
+- 🎟 Enhanced participation weight and engagement levels
+- 🏅 Multi-tiered contribution levels:
+  - Community
+  - Builder
+  - Steward  
+➡ No financial rewards
+
+---
+
+#### 2️⃣ Burn-to-Utility / Upgrade Engine
+
+Burn GPARK to:
+- 🎨 Evolve NFTs
+- 🏆 Gain XP or reputation levels
+- 🏛 Activate park zones
+
+> Enhances token deflationary nature  
+> Designed for integration with **dynamic NFT systems**
+
+---
+
+#### 3️⃣ NFT Integration & Cultural Coordinates
+
+- 🪙 NFT minting & trading exclusive to GPARK
+- Each NFT = **unique coordinate in the park’s digital architecture**
+
+Future features:
+- 🔑 Renting zones via GPARK
+- 🗳 Rights transfer via DAO vote
+- 🏛 Real-world installations mapped to NFT ownership
+
+---
+
+#### 4️⃣ Staking as Access / Proof of Participation
+
+Locking GPARK grants access to:
+- 🗳 DAO voting and governance
+- 🎭 IRL events and experiences
+- 🪙 NFT drops and limited content
+
+> All staking is recorded on-chain and used as access credential
+
+---
+
+#### 5️⃣ Interactive Governance & DAO Rewards
+
+Planned mechanics:
+- 🏆 XP-based rewards for governance participation
+- 🗳 Anonymous or ranked proposal systems
+- 🏛 Voting on IRL park development and community initiatives
+
+---
+
+#### 6️⃣ IRL Integration & Check-In System (Proof-of-Presence)
+
+- 🎟 Earn NFTs/tokens by physically visiting park zones
+- 📲 QR, NFC, or geolocation-based interaction
+- 🌉 Strengthens Web3 ↔ real-world engagement
+
+---
+
+### 📝 Additional Governance Notes
+
+- DAO may allocate revenue to support community initiatives and participation rewards.
+- ❌ No market buybacks or deflationary burning mechanisms are guaranteed or implied.
+
+> Technical specs and DAO logic for each module will be published on GitHub.  
+> Developers and partners are encouraged to track and contribute:  
+[GPARK GitHub Repository →](https://github.com/GPARKPRO/GlobalPark-DAO)
 
 ---
 
 ## 7️⃣ Treasury & Financial Design
 
-Global Park DAO maintains a **transparent, on-chain treasury** governed by a **3-of-5 multisignature Council**.  
-The treasury:
-- Is not controlled by any single individual or entity,
-- Operates solely through **DAO-approved actions**.
+Global Park DAO maintains a **transparent, on-chain treasury** governed by a **3-of-5 multisignature Council**.
+
+- The treasury is:
+  - ❌ Not controlled by any single individual or entity
+  - ✅ Operates solely through DAO-approved actions
 
 ### ✦ Treasury Address (Gnosis Safe)
 
 `0xd45BA3Fb796CD735715aB6966f198d416EC353C1`
 
-All funds (ETH, GPARK tokens, NFT-related income) are:
-> 🛡 Managed through this Safe and publicly viewable on-chain.
+All funds:
+- ETH
+- GPARK tokens
+- NFT-related income  
+➡ Are managed via this Safe and are publicly viewable on-chain.
 
 ---
 
 ### ✦ Council-Controlled Execution
 
 Every outgoing transaction:
-- Must be approved by at least **three of five Council members**,
-- Is fully verifiable on-chain.
+- Must be approved by at least **three of five Council members**
+- All activity is fully verifiable on-chain
 
-This guarantees:
-- ✅ Maximum transparency,
-- ✅ Accountability,
-- ✅ Resilience against centralized misuse.
+This ensures:
+- ✅ Maximum transparency
+- ✅ Accountability
+- ✅ Protection against centralized misuse
 
 ---
 
 ### ✦ Funding Philosophy
 
 Global Park is:
-- ❌ Not an investment vehicle.
-- ✅ A **public-good oriented cultural structure**.
+> ❌ Not an investment vehicle  
+> ✅ A **public-good oriented cultural structure**
 
-Funds are used to:
-- 🏗 Support infrastructure,
-- 🎭 Community engagement,
-- 🎨 Art projects,
-- 🛠 Maintenance and development.
+Funds support:
+- 🏗 Infrastructure
+- 🎭 Community engagement
+- 🎨 Art projects
+- 🛠 Maintenance and development
 
-❗ There are **no profit guarantees**, and funds will not be used to enrich any individual actor.
+> No funds will be used to enrich any single actor.
 
 ---
 
@@ -538,10 +589,13 @@ Funds are used to:
 
 ### ✦ Spending Principles
 
-- 📝 All expenditures must be **proposed, documented, and approved by the DAO**.
-- 🎯 Spending is evaluated on:
-  - **Mission alignment**
-  - **Cultural and public value**
+- 📝 All expenditures must be:
+  - Proposed
+  - Documented
+  - Approved by the DAO
+- 🎯 Spending evaluated by:
+  - Mission alignment
+  - Cultural and public value
 - Budgets may include:
   - 🏗 Infrastructure
   - 🎭 IRL activations
@@ -549,19 +603,20 @@ Funds are used to:
   - 🏛 DAO operations
 
 > The treasury exists not to accumulate wealth,  
-> but to sustain, activate, and grow a **living cultural ecosystem**.  
-> Every token, every ETH spent is participation in a **shared legacy**.
+> but to sustain, activate, and grow a **living cultural ecosystem**.
+
+> Every token, every ETH spent represents **participation in a shared legacy**.
 
 ---
 
 ## 8️⃣ Roadmap
 
 Global Park DAO follows a **phased development path** balancing:
-- Strategic deployment,
-- Community growth,
-- Long-term infrastructure stability.
+- Strategic deployment
+- Community growth
+- Long-term infrastructure stability
 
-Each milestone builds toward a fully decentralized and culturally embedded ecosystem.
+Each milestone builds toward a **fully decentralized, culturally embedded ecosystem**.
 
 ---
 
@@ -571,7 +626,7 @@ Each milestone builds toward a fully decentralized and culturally embedded ecosy
 - 🏛 DAO Council established (5 signers, 3-of-5 Safe)
 - 🛠 Governance infrastructure launched:
   - IPFS documents (Wallet Map, Genesis Rules, Launch Report)
-  - ENS profile setup: `soon...`
+  - ENS profile: `globalpark.eth`
   - Mirror publication of DAO Launch
 - 🔑 Execution address officially bound to DAO Council
 - 📝 Genesis Operating Rules formalized and published
@@ -580,28 +635,28 @@ Each milestone builds toward a fully decentralized and culturally embedded ecosy
 
 ### ✦ Phase 2 — Genesis Activation 🚀 (In Progress)
 
-- 🗳 Launch of Snapshot DAO space: `soon...`
+- 🗳 Launch of Snapshot DAO space: `globalpark.eth`
 - 🎨 First Mirror-based NFT issuance
-- 🎟 Airdrop or mint campaign for early participants
-- 🌐 Community channels and public presence expansion
-- 🤝 First B2B and cultural outreach to partners/institutions
-- 🛠 Ecosystem growth through:
-  - Proposals,
-  - Collaborations,
+- 🎟 Airdrop or mint campaign for early participants (max **10,000 NFTs**)
+- 🌐 Community channels & public presence expansion
+- 🤝 First B2B and cultural outreach
+- 🛠 Ecosystem growth via:
+  - Proposals
+  - Collaborations
   - Early funding opportunities
 
 ---
 
 ### ✦ Phase 3 — Autonomous DAO Governance 🏛 (Planned)
 
-- 🔄 Transition from Council-based to community-based decision making
-- 🗳 Token-based voting via Snapshot becomes active
+- 🔄 Transition from Council-led to community-based decision making
+- 🗳 Activate token-based voting via Snapshot
 - 📝 Open proposal system for:
   - Project funding
   - Installations
   - Events
-- 🎨 Curation of permanent park features via DAO proposals
-- 🎗 DAO Council shifts to advisory role or is restructured via governance
+- 🎨 Curate permanent park features via DAO proposals
+- 🏛 DAO Council shifts to advisory role or is restructured by community governance
 
 ---
 
@@ -609,7 +664,7 @@ Each milestone builds toward a fully decentralized and culturally embedded ecosy
 
 - 🏗 Construction and activation of physical park zones
 - 🪙 Token/NFT-linked on-site installations
-- 🏛 Institutional partnerships with:
+- 🏛 Partnerships with:
   - Museums
   - Collectives
   - Governments
@@ -621,8 +676,9 @@ Each milestone builds toward a fully decentralized and culturally embedded ecosy
 
 ---
 
-> 📝 This roadmap is intentionally adaptive.  
-> The DAO may vote to **accelerate, pause, or reorient** phases as the community evolves.  
+> 📝 The roadmap is intentionally adaptive.  
+> The DAO may vote to **accelerate, pause, or reorient** phases as the community evolves.
+
 > What matters is not speed, but **meaningful cultural building**.
 
 ---
@@ -633,35 +689,35 @@ Global Park DAO is structured as a **decentralized cultural initiative**,
 not a financial product or investment platform.
 
 All aspects of:
-- Token usage,
-- Governance,
-- Treasury,
+- Token usage
+- Governance
+- Treasury
 - Participation  
 are designed to:
-> ✅ Reflect public-good principles,  
-> ✅ Minimize legal risk,  
-> ✅ Adhere to open, verifiable infrastructure.
+> ✅ Reflect public-good principles  
+> ✅ Minimize legal risk  
+> ✅ Adhere to open, verifiable infrastructure
 
 ---
 
 ### ✦ Utility Token Designation
 
-**GPARK is a utility token.**  
+**GPARK is a utility token**.  
 It grants access to:
-- Participation mechanisms,
-- DAO interactions,
-- Engagement within the park ecosystem.
+- Participation mechanisms
+- DAO interactions
+- Engagement within the park ecosystem
 
-❗ GPARK is:
-- Not a security
-- Does not guarantee returns
-- Carries no rights of ownership or profit
-
-The token:
+GPARK:
 - 🛡 Is distributed without promise of financial gain
 - 🚫 Cannot be bought or sold through the DAO itself
-- 🚫 Has no dividends, shareholding, or buyback schemes
+- 🚫 Has no features of dividends, shareholding, or buyback schemes
 - 🎟 Is used strictly for access, coordination, and contribution
+
+GPARK is:
+> ❌ Not a security  
+> ❌ Does not guarantee returns  
+> ❌ Carries no rights of ownership or profit
 
 ---
 
@@ -670,18 +726,18 @@ The token:
 The DAO operates as a:
 > 🏛 **Non-profit, community-driven mechanism**
 
-- Treasury actions are transparent.
-- All execution via **multisig only**.
-- No centralized entity holds custody or private benefits.
+- All treasury actions are transparent
+- Executed by **multisig only**
+- No centralized entity holds custody or private benefits
 
 ---
 
 ### ✦ No Investment Offer
 
-Participation in the DAO, NFT minting, or GPARK token acquisition:
+Participation in DAO, NFT minting, or GPARK acquisition:
 - ❌ Is not an investment
 - ❌ Offers no expectation of return
-- ❌ Involves no legal claim over any physical or digital asset
+- ❌ Involves no equity or legal claim over assets
 
 This applies to:
 - Individuals
@@ -692,13 +748,12 @@ This applies to:
 
 ### ✦ Jurisdictional Clarity
 
-The DAO:
-- 🌐 Does not operate under any single national framework.
-- ✅ Complies with general legal principles:
-  - Transparency
-  - Non-custodial design
-  - Permissionless access
-  - No sale of securities
+The DAO does not operate under any single national framework.  
+All infrastructure complies with general legal principles:
+- ✅ Transparency
+- ✅ Non-custodial design
+- ✅ Permissionless access
+- ✅ No sale of securities
 
 > Foundational technology:
 > - Ethereum
@@ -707,30 +762,33 @@ The DAO:
 > - ENS
 > - Snapshot
 
-The original creator has formally **renounced control** via a published **Founder Manifesto**.
+The original creator:
+- Is no longer in control
+- Has formally renounced privileged rights via the **Founder Manifesto**
 
 ---
 
 ### ⚠ Disclaimers
 
-This document is informational.  
-It is not:
-- Legal advice
-- Financial guidance
+This document is informational:
+> ❗ It is not legal advice  
+> ❗ It is not financial guidance  
 
-> Readers should conduct independent research and consult local legal frameworks before engaging with any aspect of the DAO.
+Readers should:
+- Conduct independent research
+- Consult local legal frameworks before engaging with the DAO
 
 ---
 
 ## 🔟 Legal & Declarative Documentation
 
-All key documents are available in the project’s public repository:
+All key documents are available in the DAO’s public repository:
 [📁 GitHub Repository →](https://github.com/GPARKPRO/GlobalPark-DAO)
 
-> Documents are published openly and regularly updated to ensure:
-> - Transparency
-> - Trust
-> - Alignment with decentralized governance
+Documents are:
+- Published openly
+- Regularly updated
+- Aligned with the DAO’s decentralized governance model
 
 ---
 
@@ -738,38 +796,37 @@ All key documents are available in the project’s public repository:
 
 #### 📝 Founder Manifesto
 
-An ideological declaration:
-- Principles behind the project’s launch
-- Relinquishment of centralized control
-- Community invitation to assume responsibility
-- Defines foundational DAO values
+Ideological declaration:
+- Project launch principles
+- Founder relinquishment of centralized control
+- Invitation for community stewardship
+- Defines DAO values
 
 ---
 
 #### 📝 DAO Constitution
 
-The primary legal and ethical framework:
+Primary legal and ethical framework:
 - Participation rules
 - DAO Council role
 - Decision-making boundaries
 - Governance mechanics
 
-> Backbone of on-chain governance during and beyond the Genesis Phase.
+> Serves as backbone of on-chain governance during and after Genesis Phase.
 
 ---
 
 #### 📝 Declaration of Principles
 
 Cultural and political statement:
-- Anchors the mission of GPARK
-- Unites art, technology, and collective memory
-- Referenced in institutional and media communications
+- Anchors GPARK mission (art, technology, collective memory)
+- Referenced with institutions, funds, media outlets
 
 ---
 
 #### 📝 WhitePaper
 
-The core strategic document:
+Core strategic document:
 - DAO architecture
 - GPARK token usage
 - Economic model
@@ -780,26 +837,14 @@ The core strategic document:
 
 ---
 
-#### 📝 Deep Dive & Token Model Analysis
-
-An extended analysis including:
-- DAO tokenomics and mechanics
-- Comparative analysis with Web3 projects
-- Demand models and deflationary mechanisms
-- Growth scenarios
-
-> Recommended for institutional partners and research groups.
-
----
-
 #### 📝 DAO Onboarding Guide
 
-Practical guide for joining and participating:
+Practical guide for participants:
 - Snapshot voting
 - Proposal thresholds
 - Community contribution channels
 
-> Designed to support newcomers and active contributors.
+> Designed to help newcomers and active contributors.
 
 ---
 
@@ -810,7 +855,7 @@ Visual reference of DAO-controlled addresses:
 - Treasury
 - Multisig council
 - Token contract
-- Other key addresses
+- Others
 
 > Essential for auditors, analysts, and community observers.
 
@@ -824,5 +869,29 @@ Operational framework during Genesis Phase:
 - Pathway to full community autonomy
 
 > Anchored via ENS and IPFS.
+
+---
+
+#### 📝 ENS Records
+
+The ENS domain:
+> `globalpark.eth`
+
+Maps to:
+- All DAO documents
+- Contracts
+- Critical links  
+➡ Serves as on-chain identity and source of truth
+
+---
+
+### ✦ Amendments
+
+All document amendments are:
+- Made exclusively via public DAO proposals
+- Approved by on-chain governance votes
+
+All source documents including latest versions:
+[📥 DAO GitHub →](https://github.com/GPARKPRO/GlobalPark-DAO)
 
 ---
