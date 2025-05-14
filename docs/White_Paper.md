@@ -159,51 +159,159 @@ Municipalities and networks can pioneer decentralized cultural innovation, foste
 
 ---
 
-Why Participate in GPARK?
-For Individuals and Creators:
-• Ownership of a unique coordinate within a global cultural landscape.
-• The opportunity to leave a lasting mark in both digital and physical history.
-• Participation in DAO voting and cultural activations.
-For Companies, Brands, and Institutions:
-• Creation of branded art installations within an innovative cultural environment.
-• Strengthening brand reputation through engagement in a pioneering cultural project.
-• Access to new audiences through live and digital DAO-driven initiatives.
-For Ecosystems, Cities, and Communities:
-• Integration with DAO governance and cultural public programs.
-• Development of new forms of open, participatory cultural spaces.
-• Full transparency, trust, and flexibility through on-chain coordination.
-GPARK is a place where every contribution is anchored in space and time. Where every participant becomes a builder of the cultural future.
-5. DAO Governance Architecture
-The long-term mission of Global Park DAO is to evolve into a fully community-governed and decentralized organization. However, we recognize that in the early Genesis Phase the project must prioritize operational stability, security, and infrastructure development. Therefore, the initial governance model is based on a temporary Council structure, with a clear and irreversible roadmap toward community-driven governance.
-The most critical milestone of this journey is building a strong and inclusive community of DAO participants. Our first roadmap priority is to activate mass community onboarding and token distribution to transition governance as soon as possible from the founding Council to a full DAO model.
-To ensure maximum fairness and openness, the project conducts an early public listing with no private sales, no VC allocations, and no exclusive investor rounds. Every participant will have an equal opportunity to acquire GPARK tokens and join DAO governance on transparent and equal terms.
-The DAO operates on a robust and verifiable framework combining multisignature treasury control, on-chain records, and progressive decentralization.
-DAO Council
-A five-member DAO Council, each with an independently held wallet, is responsible for treasury transactions, protocol changes, and execution of DAO decisions. All actions require a 3-of-5 multisignature approval via Gnosis Safe.
-This Council acts strictly as a steward in the Genesis Phase, with no intention of permanent control. Its role is to protect, activate, and document the foundational stages of DAO formation.
-5.1 Voting & Proposal Thresholds
-To encourage early and broad community participation while maintaining protection from spam and bad actors, Global Park DAO implements the following participation structure:
-* Voting Rights: Any Ethereum wallet holding at least 100 unlocked GPARK tokens is eligible to vote on Snapshot proposals.
-* Proposal Submission: Submitting a formal proposal requires holding at least 5,000 unlocked GPARK tokens, or receiving community endorsement via off-chain forum upvotes.
-* Delegation: Any GPARK holder may delegate their voting rights to another wallet.
-These thresholds are designed to provide maximum inclusivity at the entry level, while ensuring governance quality at the proposal stage. They can be amended only by future DAO voting after the transition to the Autonomous Phase.
-DAO Treasury (Gnosis Safe)
-Treasury Address: 0xd45BA3Fb796CD735715aB6966f198d416EC353C1
+# Why Participate in GPARK?
+
+## For Individuals and Creators
+
+- Ownership of a **unique coordinate** within a global cultural landscape
+- The opportunity to leave a **lasting mark** in both digital and physical history
+- Participation in **DAO voting** and cultural activations
+
+---
+
+## For Companies, Brands, and Institutions
+
+- Creation of **branded art installations** within an innovative cultural environment
+- Strengthening brand reputation through engagement in a **pioneering cultural project**
+- Access to **new audiences** through live and digital DAO-driven initiatives
+
+---
+
+## For Ecosystems, Cities, and Communities
+
+- Integration with **DAO governance** and cultural public programs
+- Development of **new forms of open, participatory cultural spaces**
+- Full transparency, trust, and flexibility through **on-chain coordination**
+
+---
+
+**GPARK** is a place where every contribution is anchored in space and time.  
+Where every participant becomes a **builder of the cultural future**.
+
+---
+
+# 5. DAO Governance Architecture
+
+The long-term mission of **Global Park DAO** is to evolve into a **fully community-governed and decentralized organization**.  
+However, we recognize that in the early **Genesis Phase** the project must prioritize:
+- Operational stability
+- Security
+- Infrastructure development
+
+Therefore, the initial governance model is based on a **temporary Council structure**, with a clear and irreversible roadmap toward **community-driven governance**.
+
+The most critical milestone of this journey is:
+- Building a strong and inclusive community of DAO participants
+- Activating mass community onboarding and token distribution to transition governance as soon as possible from the founding Council to a full DAO model
+
+To ensure maximum fairness and openness:
+- The project conducts an **early public listing**
+- ❌ No private sales
+- ❌ No VC allocations
+- ❌ No exclusive investor rounds
+
+Every participant will have an **equal opportunity to acquire GPARK tokens** and join DAO governance on transparent and equal terms.
+
+The DAO operates on a **robust and verifiable framework** combining:
+- Multisignature treasury control
+- On-chain records
+- Progressive decentralization
+
+---
+
+## DAO Council
+
+A five-member **DAO Council**, each with an independently held wallet, is responsible for:
+- Treasury transactions
+- Protocol changes
+- Execution of DAO decisions
+
+All actions require a **3-of-5 multisignature approval** via **Gnosis Safe**.
+
+This Council acts strictly as a steward in the Genesis Phase, with no intention of permanent control.  
+Its role is to:
+- Protect
+- Activate
+- Document the foundational stages of DAO formation
+
+---
+
+## 5.1 Voting & Proposal Thresholds
+
+To encourage early and broad community participation while maintaining protection from spam and bad actors, **Global Park DAO** implements the following participation structure:
+
+- **Voting Rights:**  
+Any Ethereum wallet holding at least **100 unlocked GPARK tokens** is eligible to vote on Snapshot proposals
+
+- **Proposal Submission:**  
+Submitting a formal proposal requires:
+  - Holding at least **5,000 unlocked GPARK tokens**, or
+  - Receiving community endorsement via off-chain forum upvotes
+
+- **Delegation:**  
+Any GPARK holder may delegate their voting rights to another wallet
+
+These thresholds are designed to:
+- Provide maximum inclusivity at the entry level
+- Ensure governance quality at the proposal stage
+
+They can be amended only by future DAO voting after the transition to the Autonomous Phase.
+
+---
+
+## DAO Treasury (Gnosis Safe)
+
+**Treasury Address:**  
+`0xd45BA3Fb796CD735715aB6966f198d416EC353C1`
+
 The central treasury wallet holds and distributes funds (ETH, GPARK, and NFT revenue) strictly according to approved DAO proposals.
-Token Contract Ownership
-The GPARK token contract is fully owned by the DAO Treasury. No single actor holds admin rights. All privileged functions require Council multisig approval during the Genesis Phase.
-IPFS Governance Records
-All key documents (Genesis Rules, DAO Wallet Map, Launch Reports) are pinned and verifiable via IPFS, and anchored to the ENS domain.
 
+---
 
-ENS Metadata
-The DAO’s on-chain identity eth holds links to all DAO-controlled addresses, documents, and governance updates.
-The governance roadmap defines a structured transition:
-1. Genesis Phase (current): Council-led stewardship with DAO community formation.
-2. Autonomous Phase (future): Community-led governance via Snapshot voting by GPARK token holders.
-Upon completion of the transition, the DAO Council’s role will shift to purely advisory or will be dissolved entirely by community vote.
-For detailed Council structures, treasury maps, proposal flows, and governance mechanics, visit:
-https://github.com/GPARKPRO/GlobalPark-DAO/tree/main/docs
+## Token Contract Ownership
+
+The **GPARK token contract** is fully owned by the DAO Treasury.  
+No single actor holds admin rights.  
+All privileged functions require **Council multisig approval** during the Genesis Phase.
+
+---
+
+## IPFS Governance Records
+
+All key documents (Genesis Rules, DAO Wallet Map, Launch Reports) are:
+- Pinned and verifiable via **IPFS**
+- Anchored to the DAO’s **ENS domain**
+
+---
+
+## ENS Metadata
+
+The DAO’s on-chain identity `eth` holds links to:
+- All DAO-controlled addresses
+- Documents
+- Governance updates
+
+---
+
+## Governance Roadmap
+
+1️⃣ **Genesis Phase (current)**  
+Council-led stewardship with DAO community formation
+
+2️⃣ **Autonomous Phase (future)**  
+Community-led governance via Snapshot voting by GPARK token holders
+
+Upon completion of the transition:
+- The DAO Council’s role will shift to **purely advisory**  
+OR  
+- Will be **dissolved entirely by community vote**
+
+---
+
+For detailed Council structures, treasury maps, proposal flows, and governance mechanics, visit:  
+[https://github.com/GPARKPRO/GlobalPark-DAO/tree/main/docs](https://github.com/GPARKPRO/GlobalPark-DAO/tree/main/docs)
+
+---
 
 # 6. The GPARK Token
 
