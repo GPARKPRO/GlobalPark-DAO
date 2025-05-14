@@ -270,7 +270,6 @@ The total fixed supply remains permanently capped at **21,000,000 GPARK**, with 
   - Community onboarding
   - Ambassador programs
   - Cultural presence initiatives  
-- All spending must be governed by DAO voting and documented publicly
 
 ---
 
