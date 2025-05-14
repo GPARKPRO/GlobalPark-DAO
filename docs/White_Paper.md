@@ -451,3 +451,207 @@ There are:
 
 ---
 
+# 8. Roadmap
+
+The development of **Global Park DAO** follows a clear, phased strategy designed to build an enduring decentralized cultural system.  
+Our guiding principle is:  
+**community first, decentralization second, infrastructure last** — but only when community and governance are strong.  
+This roadmap reflects both accomplishments to date and upcoming objectives.
+
+---
+
+## Phase 1 — Foundation (Completed)
+
+- Formation of the core team: project founders, developers, marketing, legal, and community leaders united around the vision of decentralized cultural heritage
+- Development and deployment of the **GPARK token smart contract** on Ethereum
+- DAO Council established: **5 signers, 3-of-5 Gnosis Safe**
+- Governance infrastructure launched:
+  - DAO Constitution
+  - Declaration
+  - White Paper
+  - Tokenomics
+  - DAO Onboarding
+  - Market & NFT Studies
+  - Legal Frameworks (**12 documents total**)
+- Genesis Rules, DAO Wallet Map, DAO Launch Report pinned to **IPFS**
+- Launch of the project website (beta), fully Web3 integrated and wallet-enabled
+- Listing of GPARK on a centralized exchange to allow early participants access, avoiding private investor rounds
+- Initial partnership outreach and discussions with ambassadors, municipalities, and cultural influencers
+
+---
+
+## Phase 2 — Genesis Activation (Current)
+
+- Full activation of the **DAO Snapshot space**: `soon...`
+- Expansion of community channels and DAO presence
+- Marketing campaigns and ambassador program
+- Begin outreach to cultural institutions, legal advisors, and partner DAOs
+- Start of licensing discussions and memorandum of understanding (MoU) with a legal partner based in the UAE to represent community interests
+- Obtain **UAE RAK DAO license** to provide DAO-native legal clarity
+- Preparation and minting of the first NFT collection: **Early Supporter Key NFT**
+- Launch of early supporter NFT minting through the website
+- This NFT will serve as the **symbolic key to inclusion on the physical Participation Wall** at the eventual park
+- Launch of DAO-wide campaign for mass community onboarding and decentralization
+
+---
+
+## Phase 3 — Community-Led DAO Governance (Planned)
+
+- Activate full **Snapshot-based community governance**
+- Transition decision-making powers from DAO Council to community proposals and voting
+- Establish proposal flows and DAO-wide funding processes
+- Enable community votes on:
+  - Project funding
+  - Installations
+  - Ecosystem initiatives
+  - Partnerships
+- Formalize DAO framework for international partnerships and collaborations
+- Begin negotiations with UAE and global city municipalities for **pilot site identification**
+
+---
+
+## Phase 4 — Pilot Park Development (2025–2026)
+
+- Finalize land search, legal agreements, and licensing for the first pilot park site
+- Design and architectural development of park blueprint
+- Community voting and curation of initial permanent installations
+- Secure early construction partners and permit processes
+- **Target:** Begin first physical installations by late **2026**
+
+---
+
+## Phase 5 — Full Ecosystem Expansion (2027+)
+
+- Rollout of **NFT-based cultural zones and participation layers**
+- Partnership activations with:
+  - Museums
+  - Art collectives
+  - Governments
+- Establishment of the **Global Park Participation Wall** with supporter names and early DAO contributors
+- Continued deployment of interactive **Proof-of-Presence** and IRL/Web3 bridges
+- Expansion to additional cities worldwide based on DAO votes
+- Creation of **permanent public records via IPFS and cross-chain backups**
+
+---
+
+This roadmap remains **adaptive by design**.  
+The DAO may vote at any time to:
+- Accelerate
+- Modify
+- Pause phases  
+based on community needs and real-world opportunities.
+
+> We prioritize **meaningful building over rushed delivery**.
+
+---
+
+# 9. Legal & Compliance
+
+**Global Park DAO** is structured as a **decentralized cultural initiative**, not a financial product or investment platform.  
+All aspects of:
+- Token usage
+- Governance
+- Treasury
+- Participation  
+are designed to:
+- Reflect **public-good principles**
+- Minimize legal risk
+- Adhere to the ethos of **open, verifiable infrastructure**
+
+---
+
+## Utility Token Designation
+
+**GPARK is a utility token.**  
+It grants access to:
+- Participation mechanisms
+- DAO interactions
+- Engagement within the park ecosystem
+
+It is:
+- Not a security
+- Does not guarantee returns
+- Carries no rights of ownership or profit
+
+The token:
+- Is distributed without promise of financial gain
+- Cannot be bought or sold through the DAO itself
+- Has no features of dividends, shareholding, or buyback schemes
+- Is used strictly for access, coordination, and contribution
+
+---
+
+## DAO as a Public Goods Structure
+
+The DAO operates as a **non-profit, community-driven mechanism**.  
+Treasury actions are:
+- Fully transparent
+- Executed by **multisig only**
+
+No centralized entity:
+- Holds custody of funds
+- Benefits privately from DAO funds
+
+---
+
+## No Investment Offer
+
+Participation in the DAO, minting of NFTs, or acquisition of GPARK tokens:
+- Is not an investment
+- Offers no expectation of return
+- Involves no equity or legal claim over any physical or digital asset
+
+This applies to:
+- Individuals
+- Institutions
+- Contributors alike
+
+---
+
+## Jurisdictional Clarity
+
+The DAO does not operate under any single national framework.  
+However, all infrastructure complies with general legal principles:
+- Transparency
+- Non-custodial design
+- Permissionless access
+- No sale of securities
+
+Foundational technology is deployed on:
+- Ethereum
+- Supported by open-source protocols:
+  - Gnosis Safe
+  - IPFS
+  - ENS
+  - Snapshot
+
+The original creator:
+- Is no longer in control
+- Has formally renounced privileged rights through a published **Founder Manifesto**
+
+---
+
+## Disclaimers
+
+This document is informational only.  
+It is not:
+- Legal advice
+- Financial guidance
+
+Readers should:
+- Conduct independent research
+- Consult local legal frameworks before engaging with any aspect of the DAO
+
+---
+
+# 10. Legal & Declarative Documentation
+
+All key documents defining the identity, structure, and operational principles of **GPARK DAO** are available in the project’s public repository:
+
+📁 GitHub: [https://github.com/GPARKPRO/GlobalPark-DAO](https://github.com/GPARKPRO/GlobalPark-DAO)
+
+
+
+**Global Park DAO**  
+A Decentralized Initiative for Art, Technology & Collective Memory  
+✦ Document issued under the authority of DAO Assembly
