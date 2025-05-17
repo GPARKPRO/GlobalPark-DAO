@@ -1,5 +1,4 @@
-# GLOBAL PARK DAO  
-## Constitution DAO  
+# CONSTITUTION DAO  
 *A Decentralized Initiative for Art, Technology & Collective Memory*
 
 We are building a **decentralized public initiative** where every action and token contributes to preserving cultural and digital heritage.  
